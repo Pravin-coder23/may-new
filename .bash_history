@@ -70,3 +70,22 @@ git add -a
 git log
 clear
 exit
+mkdir mkdir
+git log
+mkdir mkdir/
+git init
+la -lrta
+ls -lrta
+vi test.java
+git status
+git commit origin test.java
+git status
+git add origin test.java
+git add .
+git status
+git commit -m 'first commit'
+git config user.name 'reno'
+git config --global user.name 'reno'
+git config --global user.mail 'reno@gmail.com'
+git log
+exit
